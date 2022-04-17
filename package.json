@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line interface RPG style application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charanvir/Jest-Another-RPG.git"
+  },
+  "author": "Charanvir Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Charanvir/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/Charanvir/Jest-Another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
